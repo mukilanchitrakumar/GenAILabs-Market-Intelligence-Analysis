@@ -1,0 +1,199 @@
+# GenAI Labs Market Intelligence Analysis
+
+## Final Evidence Screenshots
+
+This folder contains the final screenshot evidence supporting the **Amazon QuickSuite Market Intelligence Agent** project. The screenshots document the end-to-end workflow, including dataset preparation, full-dataset verification, Quick Research, market analysis, visualizations, agent configuration, validation, and Space organization.
+
+---
+
+## 1. Dataset Setup & Upload Evidence
+
+### `01_Dataset_Records`
+**Description:** Shows the Generative AI Market & Competitive Intelligence Dataset and establishes the dataset used for the market intelligence analysis.
+
+### `02_Dataset_Uploaded_Processing`
+**Description:** Shows the dataset being uploaded and processed within Amazon QuickSuite.
+
+### `03_Dataset_Uploaded`
+**Description:** Confirms that the Generative AI Market & Competitive Intelligence Dataset was successfully uploaded and made available in QuickSuite.
+
+---
+
+## 2. Full-Dataset Verification Evidence
+
+### `04A_Full_Dataset_Verification`
+**Description:** Shows the first stage of full-dataset verification and confirms that the analysis is based on the complete dataset rather than a sample.
+
+### `04B_Full_Dataset_Verification`
+**Description:** Shows additional full-dataset verification results supporting the validated market-level metrics.
+
+### `04C_Full_Dataset_Verification`
+**Description:** Shows further verification results calculated from the complete **19,329-record dataset** and supports the numerical findings used in the Market Analysis.
+
+---
+
+## 3. Market Distribution & Visualization Evidence
+
+### `05_Domain_Distribution`
+**Description:** Shows the distribution of products across the Primary_Domain categories in the full dataset.
+
+### `06_Intelligence_Type_By_Year`
+**Description:** Shows the distribution of Intelligence_Type across release years and supports analysis of product composition over time.
+
+### `07_Domain_Intelligence_Heatmap`
+**Description:** Shows the Primary_Domain × Intelligence_Type relationship as a heatmap, highlighting populated and empty combinations.
+
+### `08_Pricing_Model_Distribution`
+**Description:** Shows the distribution of products across the Pricing_Model categories in the dataset.
+
+### `09_API_Availability_Distribution`
+**Description:** Shows the distribution of products according to API_Availability.
+
+### `10_Annual_Product_Launches`
+**Description:** Shows annual product launch counts across the dataset's 2022–2025 release period.
+
+### `11_GenAI_Labs_Visual_Analysis`
+**Description:** Shows the consolidated visual analysis used to interpret verified product-market patterns and structural findings.
+
+---
+
+## 4. Quick Research Evidence
+
+### `12_Research_Chat_Result`
+**Description:** Shows the Amazon QuickSuite Research conversation used to explore market signals, refine research questions, and guide the intelligence analysis.
+
+### `13_Research_Report`
+**Description:** Shows the generated Quick Research report containing external market research and supporting market signals.
+
+### `13B_Research_Source_Panel`
+**Description:** Shows the research source panel containing the external sources supporting the Quick Research findings.
+
+### `14_Amazon_Quick_Dataset_Verification`
+**Description:** Shows Amazon QuickSuite verification of dataset findings and demonstrates the use of the internal dataset within the research workflow.
+
+### `15A_Quick_Research_and_Domain_Verification`
+**Description:** Shows Quick Research and domain-level verification supporting the Primary_Domain findings.
+
+### `15B_Quick_Intelligence_Type_Verification`
+**Description:** Shows QuickSuite verification of Intelligence_Type findings used in the Market Analysis.
+
+---
+
+## 5. Cross-Tabulation & Structural Analysis Evidence
+
+### `16_Domain_Intelligence_CrossTab_Counts`
+**Description:** Shows the Primary_Domain × Intelligence_Type cross-tabulation counts used to analyze the structure of the Generative AI product landscape.
+
+### `17_Domain_Intelligence_Heatmap_Quick`
+**Description:** Shows the QuickSuite heatmap visualization of the relationship between Primary_Domain and Intelligence_Type.
+
+### `18_Domain_Intelligence_Sparsity_Analysis`
+**Description:** Shows the analysis of empty and populated combinations within the Primary_Domain × Intelligence_Type matrix.
+
+### `19_CrossTab_Dataset_Independent_Verification`
+**Description:** Shows independent verification of the cross-tabulation results against the complete dataset.
+
+### `20_CrossTab_Independent_Verification`
+**Description:** Provides additional evidence validating the cross-tabulation calculations and structural findings.
+
+### `21_CrossTab_Final_Verification`
+**Description:** Shows the final verification of the Primary_Domain × Intelligence_Type analysis used in the submitted Market Analysis.
+
+---
+
+## 6. Pricing Model Verification Evidence
+
+### `22_Pricing_Dataset_Integrity`
+**Description:** Shows verification of the Pricing_Model field and confirms the integrity of the underlying dataset values.
+
+### `23_Pricing_Distribution_Verification`
+**Description:** Shows the verified distribution of products across the Pricing_Model categories.
+
+### `24_Pricing_Final_Verification`
+**Description:** Shows the final QuickSuite verification of the pricing-model results used in the Market Analysis.
+
+---
+
+## 7. API Availability Verification Evidence
+
+### `25_API_Dataset_Integrity`
+**Description:** Shows verification of the API_Availability field and confirms the integrity of the underlying dataset values.
+
+### `26_API_Distribution_Verification`
+**Description:** Shows the verified distribution of products across API_Availability categories.
+
+### `27_API_Final_Verification`
+**Description:** Shows the final verification of API availability findings used in the Market Analysis.
+
+---
+
+## 8. Video & Audio Evidence Verification
+
+### `28_Video_Audio_Date_Integrity`
+**Description:** Shows verification of date-related information associated with the video and audio product records.
+
+### `29_Video_Verification`
+**Description:** Shows verification of video-related dataset findings used in the analysis.
+
+### `30_Audio_Verification`
+**Description:** Shows verification of audio-related dataset findings used in the analysis.
+
+### `31_Video_Audio_Final_Reconciliation`
+**Description:** Shows the final reconciliation of video and audio findings before inclusion in the market intelligence analysis.
+
+---
+
+## 9. Market Intelligence Agent Evidence
+
+### `32_Agent_Creation_Prompt`
+**Description:** Shows the prompt and instructions used to establish the Market Intelligence Agent and define its analytical purpose.
+
+### `33_Agent_Config`
+**Description:** Shows the configured Market Intelligence Agent and its relevant setup and instructions.
+
+### `34_Agent_Created`
+**Description:** Confirms that the Market Intelligence Agent was successfully created in Amazon QuickSuite.
+
+### `35A_Agent_Chat`
+**Description:** Shows the agent interaction used to analyze the dataset and generate market intelligence outputs.
+
+### `35B_Agent_Chat`
+**Description:** Shows additional agent interaction and evidence supporting the analytical workflow.
+
+### `35C_Agent_Chat`
+**Description:** Shows further agent interaction used to refine and validate the Market Intelligence outputs.
+
+---
+
+## 10. Space Organization Evidence
+
+### `36_Spaces_Created`
+**Description:** Shows the completed Amazon QuickSuite Space used to organize the Market Intelligence Agent, research outputs, analysis, verification evidence, and final project materials.
+
+---
+
+# Evidence Coverage Summary
+
+The final screenshot set provides evidence across the complete Amazon QuickSuite workflow:
+
+- **Dataset Setup** — dataset records, upload, and processing
+- **Full-Dataset Verification** — complete 19,329-record analysis
+- **Market Analysis** — domain, intelligence type, pricing, API, video, and audio analysis
+- **Cross-Tabulation** — Primary_Domain × Intelligence_Type structure and sparsity
+- **Quick Research** — research conversation, report, and source evidence
+- **Visual Evidence** — market distributions, annual launches, and heatmap analysis
+- **Agent Evidence** — agent creation, configuration, and interactions
+- **Validation** — independent verification and final reconciliation
+- **Space Organization** — final Amazon QuickSuite Space containing the project evidence
+
+## Purpose of the Evidence
+
+The screenshots are provided to make the research workflow **traceable and verifiable**. They connect the underlying dataset, Quick Research activity, QuickSuite analyses, visualizations, Market Intelligence Agent interactions, verification steps, and final organized Space to the findings presented in the submitted Market Intelligence deliverables.
+
+---
+
+## Project Evidence Flow
+
+**Dataset → Upload → Full-Dataset Verification → Market Analysis → Visualizations → Quick Research → Cross-Tab Verification → Pricing/API Verification → Agent Creation → Agent Interactions → Final Space**
+
+This evidence package is intended to support review of the **GenAI Labs Market Intelligence Analysis** project and demonstrate the research, analysis, verification, and AI-assisted workflow completed in Amazon QuickSuite.
